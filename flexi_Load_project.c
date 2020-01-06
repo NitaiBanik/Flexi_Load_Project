@@ -1,4 +1,4 @@
-///::::::::::::::: A Flexi Load C Project Created by Mamun and Nitai, CSE 12th batch, MBSTU :::::::::::::::::::
+///::::::::::::::: A Flexi Load C Project Created by Nitai, CSE 12th batch, MBSTU :::::::::::::::::::
 
 #include <windows.h>
 #include <stdio.h>                   ///printf,scanf, etc.
